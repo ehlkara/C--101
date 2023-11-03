@@ -1,0 +1,15 @@
+/Users/ehlkara/Desktop/C# 101/console-programming/bin/Debug/net7.0/console-programming
+/Users/ehlkara/Desktop/C# 101/console-programming/bin/Debug/net7.0/console-programming.deps.json
+/Users/ehlkara/Desktop/C# 101/console-programming/bin/Debug/net7.0/console-programming.runtimeconfig.json
+/Users/ehlkara/Desktop/C# 101/console-programming/bin/Debug/net7.0/console-programming.dll
+/Users/ehlkara/Desktop/C# 101/console-programming/bin/Debug/net7.0/console-programming.pdb
+/Users/ehlkara/Desktop/C# 101/console-programming/obj/Debug/net7.0/console-programming.csproj.AssemblyReference.cache
+/Users/ehlkara/Desktop/C# 101/console-programming/obj/Debug/net7.0/console-programming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehlkara/Desktop/C# 101/console-programming/obj/Debug/net7.0/console-programming.AssemblyInfoInputs.cache
+/Users/ehlkara/Desktop/C# 101/console-programming/obj/Debug/net7.0/console-programming.AssemblyInfo.cs
+/Users/ehlkara/Desktop/C# 101/console-programming/obj/Debug/net7.0/console-programming.csproj.CoreCompileInputs.cache
+/Users/ehlkara/Desktop/C# 101/console-programming/obj/Debug/net7.0/console-programming.dll
+/Users/ehlkara/Desktop/C# 101/console-programming/obj/Debug/net7.0/refint/console-programming.dll
+/Users/ehlkara/Desktop/C# 101/console-programming/obj/Debug/net7.0/console-programming.pdb
+/Users/ehlkara/Desktop/C# 101/console-programming/obj/Debug/net7.0/console-programming.genruntimeconfig.cache
+/Users/ehlkara/Desktop/C# 101/console-programming/obj/Debug/net7.0/ref/console-programming.dll
