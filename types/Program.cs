@@ -66,5 +66,19 @@
 
         int int21 = int20 + Convert.ToInt32(str20);
         Console.WriteLine(int21); // Output 40
+
+        int int22 = int20 + int.Parse(str20);
+        Console.WriteLine(int22); // Output 40
+
+        // dateTime
+        string dateTime = DateTime.Now.ToString("dd.MM.yyyy");
+        Console.WriteLine(dateTime);
+
+        string dateTime2 = DateTime.Now.ToString("dd/MM/yyyy");
+        Console.WriteLine(dateTime2);
+
+        // hour
+        string hour = DateTime.Now.ToString("HH:mm");
+        Console.WriteLine(hour);
     }
 }
