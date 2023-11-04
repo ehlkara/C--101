@@ -1,0 +1,15 @@
+/Users/ehlkara/Desktop/C# 101/operators/bin/Debug/net7.0/operators
+/Users/ehlkara/Desktop/C# 101/operators/bin/Debug/net7.0/operators.deps.json
+/Users/ehlkara/Desktop/C# 101/operators/bin/Debug/net7.0/operators.runtimeconfig.json
+/Users/ehlkara/Desktop/C# 101/operators/bin/Debug/net7.0/operators.dll
+/Users/ehlkara/Desktop/C# 101/operators/bin/Debug/net7.0/operators.pdb
+/Users/ehlkara/Desktop/C# 101/operators/obj/Debug/net7.0/operators.csproj.AssemblyReference.cache
+/Users/ehlkara/Desktop/C# 101/operators/obj/Debug/net7.0/operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehlkara/Desktop/C# 101/operators/obj/Debug/net7.0/operators.AssemblyInfoInputs.cache
+/Users/ehlkara/Desktop/C# 101/operators/obj/Debug/net7.0/operators.AssemblyInfo.cs
+/Users/ehlkara/Desktop/C# 101/operators/obj/Debug/net7.0/operators.csproj.CoreCompileInputs.cache
+/Users/ehlkara/Desktop/C# 101/operators/obj/Debug/net7.0/operators.dll
+/Users/ehlkara/Desktop/C# 101/operators/obj/Debug/net7.0/refint/operators.dll
+/Users/ehlkara/Desktop/C# 101/operators/obj/Debug/net7.0/operators.pdb
+/Users/ehlkara/Desktop/C# 101/operators/obj/Debug/net7.0/operators.genruntimeconfig.cache
+/Users/ehlkara/Desktop/C# 101/operators/obj/Debug/net7.0/ref/operators.dll
