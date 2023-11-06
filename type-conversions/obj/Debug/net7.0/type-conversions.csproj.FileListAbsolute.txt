@@ -1,0 +1,15 @@
+/Users/ehlkara/Desktop/C# 101/type-conversions/bin/Debug/net7.0/type-conversions
+/Users/ehlkara/Desktop/C# 101/type-conversions/bin/Debug/net7.0/type-conversions.deps.json
+/Users/ehlkara/Desktop/C# 101/type-conversions/bin/Debug/net7.0/type-conversions.runtimeconfig.json
+/Users/ehlkara/Desktop/C# 101/type-conversions/bin/Debug/net7.0/type-conversions.dll
+/Users/ehlkara/Desktop/C# 101/type-conversions/bin/Debug/net7.0/type-conversions.pdb
+/Users/ehlkara/Desktop/C# 101/type-conversions/obj/Debug/net7.0/type-conversions.csproj.AssemblyReference.cache
+/Users/ehlkara/Desktop/C# 101/type-conversions/obj/Debug/net7.0/type-conversions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehlkara/Desktop/C# 101/type-conversions/obj/Debug/net7.0/type-conversions.AssemblyInfoInputs.cache
+/Users/ehlkara/Desktop/C# 101/type-conversions/obj/Debug/net7.0/type-conversions.AssemblyInfo.cs
+/Users/ehlkara/Desktop/C# 101/type-conversions/obj/Debug/net7.0/type-conversions.csproj.CoreCompileInputs.cache
+/Users/ehlkara/Desktop/C# 101/type-conversions/obj/Debug/net7.0/type-conversions.dll
+/Users/ehlkara/Desktop/C# 101/type-conversions/obj/Debug/net7.0/refint/type-conversions.dll
+/Users/ehlkara/Desktop/C# 101/type-conversions/obj/Debug/net7.0/type-conversions.pdb
+/Users/ehlkara/Desktop/C# 101/type-conversions/obj/Debug/net7.0/type-conversions.genruntimeconfig.cache
+/Users/ehlkara/Desktop/C# 101/type-conversions/obj/Debug/net7.0/ref/type-conversions.dll
