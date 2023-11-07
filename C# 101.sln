@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exception-handling", "excep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if-else-if", "if-else-if\if-else-if.csproj", "{BD8EF45A-D6A1-4908-A67C-15BBAB61DA8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch-case", "switch-case\switch-case.csproj", "{93CAF42C-D303-480D-89C6-457A4D6E3450}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{BD8EF45A-D6A1-4908-A67C-15BBAB61DA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD8EF45A-D6A1-4908-A67C-15BBAB61DA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD8EF45A-D6A1-4908-A67C-15BBAB61DA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93CAF42C-D303-480D-89C6-457A4D6E3450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CAF42C-D303-480D-89C6-457A4D6E3450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CAF42C-D303-480D-89C6-457A4D6E3450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CAF42C-D303-480D-89C6-457A4D6E3450}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
