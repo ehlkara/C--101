@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "quMmH6dvnw3OspKVDEPpryxTNWsvQV1aQb+q9KrMPaV/DxRLjgQmI9E1bjhZxSXrTBrPityJiMfnlms73Yp+RQ==",
+  "dgSpecHash": "64UriESqarobtjh1zHZOfKA6REHvib+XePEEH2JRT730ykgx8Gr50u3ky5Axdu4DjfImTkE5dpwEZU16NHvj5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ehlka\\Source\\Repos\\C--101\\switch-case\\switch-case.csproj",
+  "projectFilePath": "/Users/ehlkara/Desktop/C# 101/switch-case/switch-case.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.136.50.106:9090/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }

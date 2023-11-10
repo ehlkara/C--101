@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TxDIKe+U/dACWS+V+8TqU0IhiFW5sdhO8iUPqN8MV7fOlLNbjQQ3lmKLQ39nTLLL72CoWoxOUs9vJj6V4LOLZA==",
+  "dgSpecHash": "CaWG8ilVJlqP5uzDm+uZl+DijfJrSDuEcWzHBL1LlCmV79BJb+mXPndR1+XUpucuaHnmLy00igwZnjCna0kidg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ehlka\\Source\\Repos\\C--101\\operators\\operators.csproj",
+  "projectFilePath": "/Users/ehlkara/Desktop/C# 101/operators/operators.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.136.50.106:9090/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }
