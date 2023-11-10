@@ -1,0 +1,15 @@
+/Users/ehlkara/Desktop/C# 101/loops-while-foreach/bin/Debug/net7.0/loops-while-foreach
+/Users/ehlkara/Desktop/C# 101/loops-while-foreach/bin/Debug/net7.0/loops-while-foreach.deps.json
+/Users/ehlkara/Desktop/C# 101/loops-while-foreach/bin/Debug/net7.0/loops-while-foreach.runtimeconfig.json
+/Users/ehlkara/Desktop/C# 101/loops-while-foreach/bin/Debug/net7.0/loops-while-foreach.dll
+/Users/ehlkara/Desktop/C# 101/loops-while-foreach/bin/Debug/net7.0/loops-while-foreach.pdb
+/Users/ehlkara/Desktop/C# 101/loops-while-foreach/obj/Debug/net7.0/loops-while-foreach.csproj.AssemblyReference.cache
+/Users/ehlkara/Desktop/C# 101/loops-while-foreach/obj/Debug/net7.0/loops-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehlkara/Desktop/C# 101/loops-while-foreach/obj/Debug/net7.0/loops-while-foreach.AssemblyInfoInputs.cache
+/Users/ehlkara/Desktop/C# 101/loops-while-foreach/obj/Debug/net7.0/loops-while-foreach.AssemblyInfo.cs
+/Users/ehlkara/Desktop/C# 101/loops-while-foreach/obj/Debug/net7.0/loops-while-foreach.csproj.CoreCompileInputs.cache
+/Users/ehlkara/Desktop/C# 101/loops-while-foreach/obj/Debug/net7.0/loops-while-foreach.dll
+/Users/ehlkara/Desktop/C# 101/loops-while-foreach/obj/Debug/net7.0/refint/loops-while-foreach.dll
+/Users/ehlkara/Desktop/C# 101/loops-while-foreach/obj/Debug/net7.0/loops-while-foreach.pdb
+/Users/ehlkara/Desktop/C# 101/loops-while-foreach/obj/Debug/net7.0/loops-while-foreach.genruntimeconfig.cache
+/Users/ehlkara/Desktop/C# 101/loops-while-foreach/obj/Debug/net7.0/ref/loops-while-foreach.dll
