@@ -1,0 +1,15 @@
+/Users/ehlkara/Desktop/C# 101/loops-for-loop/bin/Debug/net7.0/loops-for-loop
+/Users/ehlkara/Desktop/C# 101/loops-for-loop/bin/Debug/net7.0/loops-for-loop.deps.json
+/Users/ehlkara/Desktop/C# 101/loops-for-loop/bin/Debug/net7.0/loops-for-loop.runtimeconfig.json
+/Users/ehlkara/Desktop/C# 101/loops-for-loop/bin/Debug/net7.0/loops-for-loop.dll
+/Users/ehlkara/Desktop/C# 101/loops-for-loop/bin/Debug/net7.0/loops-for-loop.pdb
+/Users/ehlkara/Desktop/C# 101/loops-for-loop/obj/Debug/net7.0/loops-for-loop.csproj.AssemblyReference.cache
+/Users/ehlkara/Desktop/C# 101/loops-for-loop/obj/Debug/net7.0/loops-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehlkara/Desktop/C# 101/loops-for-loop/obj/Debug/net7.0/loops-for-loop.AssemblyInfoInputs.cache
+/Users/ehlkara/Desktop/C# 101/loops-for-loop/obj/Debug/net7.0/loops-for-loop.AssemblyInfo.cs
+/Users/ehlkara/Desktop/C# 101/loops-for-loop/obj/Debug/net7.0/loops-for-loop.csproj.CoreCompileInputs.cache
+/Users/ehlkara/Desktop/C# 101/loops-for-loop/obj/Debug/net7.0/loops-for-loop.dll
+/Users/ehlkara/Desktop/C# 101/loops-for-loop/obj/Debug/net7.0/refint/loops-for-loop.dll
+/Users/ehlkara/Desktop/C# 101/loops-for-loop/obj/Debug/net7.0/loops-for-loop.pdb
+/Users/ehlkara/Desktop/C# 101/loops-for-loop/obj/Debug/net7.0/loops-for-loop.genruntimeconfig.cache
+/Users/ehlkara/Desktop/C# 101/loops-for-loop/obj/Debug/net7.0/ref/loops-for-loop.dll
