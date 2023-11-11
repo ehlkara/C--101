@@ -1,0 +1,15 @@
+/Users/ehlkara/Desktop/C# 101/Array-Class-Methods/bin/Debug/net7.0/Array-Class-Methods
+/Users/ehlkara/Desktop/C# 101/Array-Class-Methods/bin/Debug/net7.0/Array-Class-Methods.deps.json
+/Users/ehlkara/Desktop/C# 101/Array-Class-Methods/bin/Debug/net7.0/Array-Class-Methods.runtimeconfig.json
+/Users/ehlkara/Desktop/C# 101/Array-Class-Methods/bin/Debug/net7.0/Array-Class-Methods.dll
+/Users/ehlkara/Desktop/C# 101/Array-Class-Methods/bin/Debug/net7.0/Array-Class-Methods.pdb
+/Users/ehlkara/Desktop/C# 101/Array-Class-Methods/obj/Debug/net7.0/Array-Class-Methods.csproj.AssemblyReference.cache
+/Users/ehlkara/Desktop/C# 101/Array-Class-Methods/obj/Debug/net7.0/Array-Class-Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehlkara/Desktop/C# 101/Array-Class-Methods/obj/Debug/net7.0/Array-Class-Methods.AssemblyInfoInputs.cache
+/Users/ehlkara/Desktop/C# 101/Array-Class-Methods/obj/Debug/net7.0/Array-Class-Methods.AssemblyInfo.cs
+/Users/ehlkara/Desktop/C# 101/Array-Class-Methods/obj/Debug/net7.0/Array-Class-Methods.csproj.CoreCompileInputs.cache
+/Users/ehlkara/Desktop/C# 101/Array-Class-Methods/obj/Debug/net7.0/Array-Class-Methods.dll
+/Users/ehlkara/Desktop/C# 101/Array-Class-Methods/obj/Debug/net7.0/refint/Array-Class-Methods.dll
+/Users/ehlkara/Desktop/C# 101/Array-Class-Methods/obj/Debug/net7.0/Array-Class-Methods.pdb
+/Users/ehlkara/Desktop/C# 101/Array-Class-Methods/obj/Debug/net7.0/Array-Class-Methods.genruntimeconfig.cache
+/Users/ehlkara/Desktop/C# 101/Array-Class-Methods/obj/Debug/net7.0/ref/Array-Class-Methods.dll
