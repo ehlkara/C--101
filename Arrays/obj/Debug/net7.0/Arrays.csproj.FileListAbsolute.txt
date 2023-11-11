@@ -1,0 +1,15 @@
+/Users/ehlkara/Desktop/C# 101/Arrays/bin/Debug/net7.0/Arrays
+/Users/ehlkara/Desktop/C# 101/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/Users/ehlkara/Desktop/C# 101/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/Users/ehlkara/Desktop/C# 101/Arrays/bin/Debug/net7.0/Arrays.dll
+/Users/ehlkara/Desktop/C# 101/Arrays/bin/Debug/net7.0/Arrays.pdb
+/Users/ehlkara/Desktop/C# 101/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/Users/ehlkara/Desktop/C# 101/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehlkara/Desktop/C# 101/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/Users/ehlkara/Desktop/C# 101/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/Users/ehlkara/Desktop/C# 101/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/ehlkara/Desktop/C# 101/Arrays/obj/Debug/net7.0/Arrays.dll
+/Users/ehlkara/Desktop/C# 101/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/Users/ehlkara/Desktop/C# 101/Arrays/obj/Debug/net7.0/Arrays.pdb
+/Users/ehlkara/Desktop/C# 101/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/Users/ehlkara/Desktop/C# 101/Arrays/obj/Debug/net7.0/ref/Arrays.dll
