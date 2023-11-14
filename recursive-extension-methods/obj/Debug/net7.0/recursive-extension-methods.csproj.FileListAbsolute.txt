@@ -1,0 +1,15 @@
+/Users/ehlkara/Desktop/C# 101/recursive-extension-methods/bin/Debug/net7.0/recursive-extension-methods
+/Users/ehlkara/Desktop/C# 101/recursive-extension-methods/bin/Debug/net7.0/recursive-extension-methods.deps.json
+/Users/ehlkara/Desktop/C# 101/recursive-extension-methods/bin/Debug/net7.0/recursive-extension-methods.runtimeconfig.json
+/Users/ehlkara/Desktop/C# 101/recursive-extension-methods/bin/Debug/net7.0/recursive-extension-methods.dll
+/Users/ehlkara/Desktop/C# 101/recursive-extension-methods/bin/Debug/net7.0/recursive-extension-methods.pdb
+/Users/ehlkara/Desktop/C# 101/recursive-extension-methods/obj/Debug/net7.0/recursive-extension-methods.csproj.AssemblyReference.cache
+/Users/ehlkara/Desktop/C# 101/recursive-extension-methods/obj/Debug/net7.0/recursive-extension-methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehlkara/Desktop/C# 101/recursive-extension-methods/obj/Debug/net7.0/recursive-extension-methods.AssemblyInfoInputs.cache
+/Users/ehlkara/Desktop/C# 101/recursive-extension-methods/obj/Debug/net7.0/recursive-extension-methods.AssemblyInfo.cs
+/Users/ehlkara/Desktop/C# 101/recursive-extension-methods/obj/Debug/net7.0/recursive-extension-methods.csproj.CoreCompileInputs.cache
+/Users/ehlkara/Desktop/C# 101/recursive-extension-methods/obj/Debug/net7.0/recursive-extension-methods.dll
+/Users/ehlkara/Desktop/C# 101/recursive-extension-methods/obj/Debug/net7.0/refint/recursive-extension-methods.dll
+/Users/ehlkara/Desktop/C# 101/recursive-extension-methods/obj/Debug/net7.0/recursive-extension-methods.pdb
+/Users/ehlkara/Desktop/C# 101/recursive-extension-methods/obj/Debug/net7.0/recursive-extension-methods.genruntimeconfig.cache
+/Users/ehlkara/Desktop/C# 101/recursive-extension-methods/obj/Debug/net7.0/ref/recursive-extension-methods.dll
