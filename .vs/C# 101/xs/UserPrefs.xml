@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{DCF844E5-AD55-4181-95CC-E59C2DFDC997}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{DCF844E5-AD55-4181-95CC-E59C2DFDC997}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="type-conversions/Program.cs">
     <Files>
