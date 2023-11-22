@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loops-while-foreach", "loop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loops-for-loop", "loops-for-loop\loops-for-loop.csproj", "{372BD8DF-7007-468F-B4F1-D147C5CDBA5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class-concept", "class-concept\class-concept.csproj", "{D08495E5-7FBF-44D5-BBF6-E5D23D2080D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{372BD8DF-7007-468F-B4F1-D147C5CDBA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{372BD8DF-7007-468F-B4F1-D147C5CDBA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{372BD8DF-7007-468F-B4F1-D147C5CDBA5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08495E5-7FBF-44D5-BBF6-E5D23D2080D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08495E5-7FBF-44D5-BBF6-E5D23D2080D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08495E5-7FBF-44D5-BBF6-E5D23D2080D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08495E5-7FBF-44D5-BBF6-E5D23D2080D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

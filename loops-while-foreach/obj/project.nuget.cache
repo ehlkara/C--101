@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tRyfOBVtVDzodhJ9R7sgQ+2pHVo4+7KojtSKBSGZciBwgrUMTL+d8ylE2JMQoQf1jiKuRCuK3qv7QH8XniYJAw==",
+  "dgSpecHash": "3fsHRC27fePelAz7i8CCqe1I0yk8OD74SKa6hjS27HW8dt0gTx5RauwGGHetHVqSpouSGp0ox1TJ4PVX1w2cRQ==",
   "success": true,
-  "projectFilePath": "/Users/ehlkara/Desktop/C# 101/loops-while-foreach/loops-while-foreach.csproj",
+  "projectFilePath": "/Users/ehlkara/Documents/GitHub/C--101/loops-while-foreach/loops-while-foreach.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

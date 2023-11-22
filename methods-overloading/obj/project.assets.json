@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ehlkara/Desktop/C# 101/methods-overloading/methods-overloading.csproj",
+      "projectUniqueName": "/Users/ehlkara/Documents/GitHub/C--101/methods-overloading/methods-overloading.csproj",
       "projectName": "methods-overloading",
-      "projectPath": "/Users/ehlkara/Desktop/C# 101/methods-overloading/methods-overloading.csproj",
+      "projectPath": "/Users/ehlkara/Documents/GitHub/C--101/methods-overloading/methods-overloading.csproj",
       "packagesPath": "/Users/ehlkara/.nuget/packages/",
-      "outputPath": "/Users/ehlkara/Desktop/C# 101/methods-overloading/obj/",
+      "outputPath": "/Users/ehlkara/Documents/GitHub/C--101/methods-overloading/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
       }
     }
   }
