@@ -1,0 +1,15 @@
+/Users/ehlkara/Documents/GitHub/C--101/constructor_methods/bin/Debug/net7.0/constructor_methods
+/Users/ehlkara/Documents/GitHub/C--101/constructor_methods/bin/Debug/net7.0/constructor_methods.deps.json
+/Users/ehlkara/Documents/GitHub/C--101/constructor_methods/bin/Debug/net7.0/constructor_methods.runtimeconfig.json
+/Users/ehlkara/Documents/GitHub/C--101/constructor_methods/bin/Debug/net7.0/constructor_methods.dll
+/Users/ehlkara/Documents/GitHub/C--101/constructor_methods/bin/Debug/net7.0/constructor_methods.pdb
+/Users/ehlkara/Documents/GitHub/C--101/constructor_methods/obj/Debug/net7.0/constructor_methods.csproj.AssemblyReference.cache
+/Users/ehlkara/Documents/GitHub/C--101/constructor_methods/obj/Debug/net7.0/constructor_methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehlkara/Documents/GitHub/C--101/constructor_methods/obj/Debug/net7.0/constructor_methods.AssemblyInfoInputs.cache
+/Users/ehlkara/Documents/GitHub/C--101/constructor_methods/obj/Debug/net7.0/constructor_methods.AssemblyInfo.cs
+/Users/ehlkara/Documents/GitHub/C--101/constructor_methods/obj/Debug/net7.0/constructor_methods.csproj.CoreCompileInputs.cache
+/Users/ehlkara/Documents/GitHub/C--101/constructor_methods/obj/Debug/net7.0/constructor_methods.dll
+/Users/ehlkara/Documents/GitHub/C--101/constructor_methods/obj/Debug/net7.0/refint/constructor_methods.dll
+/Users/ehlkara/Documents/GitHub/C--101/constructor_methods/obj/Debug/net7.0/constructor_methods.pdb
+/Users/ehlkara/Documents/GitHub/C--101/constructor_methods/obj/Debug/net7.0/constructor_methods.genruntimeconfig.cache
+/Users/ehlkara/Documents/GitHub/C--101/constructor_methods/obj/Debug/net7.0/ref/constructor_methods.dll

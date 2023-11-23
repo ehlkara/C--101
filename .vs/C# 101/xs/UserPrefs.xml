@@ -1,10 +1,6 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{DCF844E5-AD55-4181-95CC-E59C2DFDC997}|Default">
-  <MonoDevelop.Ide.ItemProperties.Homework1 PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{DCF844E5-AD55-4181-95CC-E59C2DFDC997}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.console-programming PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.operators PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="class-concept/Program.cs">
     <Files>
       <File FileName="class-concept/Program.cs" Line="7" Column="2" />
@@ -21,8 +17,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.class-concept FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.operators PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Homework1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.constructor__methods FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>
