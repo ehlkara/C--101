@@ -13,3 +13,18 @@
 /Users/ehlkara/Desktop/C# 101/Homework1/obj/Debug/net7.0/Homework1.pdb
 /Users/ehlkara/Desktop/C# 101/Homework1/obj/Debug/net7.0/Homework1.genruntimeconfig.cache
 /Users/ehlkara/Desktop/C# 101/Homework1/obj/Debug/net7.0/ref/Homework1.dll
+/Users/ehlkara/Documents/GitHub/C--101/Homework1/bin/Debug/net7.0/Homework1
+/Users/ehlkara/Documents/GitHub/C--101/Homework1/bin/Debug/net7.0/Homework1.deps.json
+/Users/ehlkara/Documents/GitHub/C--101/Homework1/bin/Debug/net7.0/Homework1.runtimeconfig.json
+/Users/ehlkara/Documents/GitHub/C--101/Homework1/bin/Debug/net7.0/Homework1.dll
+/Users/ehlkara/Documents/GitHub/C--101/Homework1/bin/Debug/net7.0/Homework1.pdb
+/Users/ehlkara/Documents/GitHub/C--101/Homework1/obj/Debug/net7.0/Homework1.csproj.AssemblyReference.cache
+/Users/ehlkara/Documents/GitHub/C--101/Homework1/obj/Debug/net7.0/Homework1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehlkara/Documents/GitHub/C--101/Homework1/obj/Debug/net7.0/Homework1.AssemblyInfoInputs.cache
+/Users/ehlkara/Documents/GitHub/C--101/Homework1/obj/Debug/net7.0/Homework1.AssemblyInfo.cs
+/Users/ehlkara/Documents/GitHub/C--101/Homework1/obj/Debug/net7.0/Homework1.csproj.CoreCompileInputs.cache
+/Users/ehlkara/Documents/GitHub/C--101/Homework1/obj/Debug/net7.0/Homework1.dll
+/Users/ehlkara/Documents/GitHub/C--101/Homework1/obj/Debug/net7.0/refint/Homework1.dll
+/Users/ehlkara/Documents/GitHub/C--101/Homework1/obj/Debug/net7.0/Homework1.pdb
+/Users/ehlkara/Documents/GitHub/C--101/Homework1/obj/Debug/net7.0/Homework1.genruntimeconfig.cache
+/Users/ehlkara/Documents/GitHub/C--101/Homework1/obj/Debug/net7.0/ref/Homework1.dll

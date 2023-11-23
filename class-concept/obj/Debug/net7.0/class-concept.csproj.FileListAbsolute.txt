@@ -1,0 +1,15 @@
+/Users/ehlkara/Documents/GitHub/C--101/class-concept/bin/Debug/net7.0/class-concept
+/Users/ehlkara/Documents/GitHub/C--101/class-concept/bin/Debug/net7.0/class-concept.deps.json
+/Users/ehlkara/Documents/GitHub/C--101/class-concept/bin/Debug/net7.0/class-concept.runtimeconfig.json
+/Users/ehlkara/Documents/GitHub/C--101/class-concept/bin/Debug/net7.0/class-concept.dll
+/Users/ehlkara/Documents/GitHub/C--101/class-concept/bin/Debug/net7.0/class-concept.pdb
+/Users/ehlkara/Documents/GitHub/C--101/class-concept/obj/Debug/net7.0/class-concept.csproj.AssemblyReference.cache
+/Users/ehlkara/Documents/GitHub/C--101/class-concept/obj/Debug/net7.0/class-concept.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehlkara/Documents/GitHub/C--101/class-concept/obj/Debug/net7.0/class-concept.AssemblyInfoInputs.cache
+/Users/ehlkara/Documents/GitHub/C--101/class-concept/obj/Debug/net7.0/class-concept.AssemblyInfo.cs
+/Users/ehlkara/Documents/GitHub/C--101/class-concept/obj/Debug/net7.0/class-concept.csproj.CoreCompileInputs.cache
+/Users/ehlkara/Documents/GitHub/C--101/class-concept/obj/Debug/net7.0/class-concept.dll
+/Users/ehlkara/Documents/GitHub/C--101/class-concept/obj/Debug/net7.0/refint/class-concept.dll
+/Users/ehlkara/Documents/GitHub/C--101/class-concept/obj/Debug/net7.0/class-concept.pdb
+/Users/ehlkara/Documents/GitHub/C--101/class-concept/obj/Debug/net7.0/class-concept.genruntimeconfig.cache
+/Users/ehlkara/Documents/GitHub/C--101/class-concept/obj/Debug/net7.0/ref/class-concept.dll
