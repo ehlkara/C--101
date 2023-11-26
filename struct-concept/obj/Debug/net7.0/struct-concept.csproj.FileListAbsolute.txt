@@ -1,0 +1,15 @@
+/Users/ehlkara/Documents/GitHub/C--101/struct-concept/bin/Debug/net7.0/struct-concept
+/Users/ehlkara/Documents/GitHub/C--101/struct-concept/bin/Debug/net7.0/struct-concept.deps.json
+/Users/ehlkara/Documents/GitHub/C--101/struct-concept/bin/Debug/net7.0/struct-concept.runtimeconfig.json
+/Users/ehlkara/Documents/GitHub/C--101/struct-concept/bin/Debug/net7.0/struct-concept.dll
+/Users/ehlkara/Documents/GitHub/C--101/struct-concept/bin/Debug/net7.0/struct-concept.pdb
+/Users/ehlkara/Documents/GitHub/C--101/struct-concept/obj/Debug/net7.0/struct-concept.csproj.AssemblyReference.cache
+/Users/ehlkara/Documents/GitHub/C--101/struct-concept/obj/Debug/net7.0/struct-concept.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehlkara/Documents/GitHub/C--101/struct-concept/obj/Debug/net7.0/struct-concept.AssemblyInfoInputs.cache
+/Users/ehlkara/Documents/GitHub/C--101/struct-concept/obj/Debug/net7.0/struct-concept.AssemblyInfo.cs
+/Users/ehlkara/Documents/GitHub/C--101/struct-concept/obj/Debug/net7.0/struct-concept.csproj.CoreCompileInputs.cache
+/Users/ehlkara/Documents/GitHub/C--101/struct-concept/obj/Debug/net7.0/struct-concept.dll
+/Users/ehlkara/Documents/GitHub/C--101/struct-concept/obj/Debug/net7.0/refint/struct-concept.dll
+/Users/ehlkara/Documents/GitHub/C--101/struct-concept/obj/Debug/net7.0/struct-concept.pdb
+/Users/ehlkara/Documents/GitHub/C--101/struct-concept/obj/Debug/net7.0/struct-concept.genruntimeconfig.cache
+/Users/ehlkara/Documents/GitHub/C--101/struct-concept/obj/Debug/net7.0/ref/struct-concept.dll

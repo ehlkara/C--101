@@ -1,10 +1,10 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{1688C21A-0CE1-4162-B66B-DDAB04CF636A}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{673DC759-BA33-4942-91BF-BF1581DD8B10}|Default">
   <MonoDevelop.Ide.ItemProperties.Homework1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.operators PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.static-class-members PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.static-class-members PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.console-programming PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="static-class-members/Program.cs">
     <Files>
@@ -22,5 +22,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.struct-concept PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

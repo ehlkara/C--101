@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encapsulation", "encapsulat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static-class-members", "static-class-members\static-class-members.csproj", "{1688C21A-0CE1-4162-B66B-DDAB04CF636A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "struct-concept", "struct-concept\struct-concept.csproj", "{673DC759-BA33-4942-91BF-BF1581DD8B10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{1688C21A-0CE1-4162-B66B-DDAB04CF636A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1688C21A-0CE1-4162-B66B-DDAB04CF636A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1688C21A-0CE1-4162-B66B-DDAB04CF636A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{673DC759-BA33-4942-91BF-BF1581DD8B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673DC759-BA33-4942-91BF-BF1581DD8B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673DC759-BA33-4942-91BF-BF1581DD8B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673DC759-BA33-4942-91BF-BF1581DD8B10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
