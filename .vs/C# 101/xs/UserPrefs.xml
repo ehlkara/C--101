@@ -1,6 +1,7 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{673DC759-BA33-4942-91BF-BF1581DD8B10}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E2E38440-E552-462C-BAFF-ED31E3937967}|Default">
   <MonoDevelop.Ide.ItemProperties.Homework1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.operators PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.chsarp-enum PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MultiItemStartupConfigurations />
@@ -22,6 +23,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.struct-concept PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.struct-concept PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
