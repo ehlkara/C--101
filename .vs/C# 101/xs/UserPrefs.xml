@@ -1,12 +1,13 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E2E38440-E552-462C-BAFF-ED31E3937967}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{A9F39C0A-DA06-478F-9160-7FDDDC1EC168}|Default">
   <MonoDevelop.Ide.ItemProperties.Homework1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.operators PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.chsarp-enum PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.chsarp-enum PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.static-class-members PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.console-programming PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.inheritance PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="static-class-members/Program.cs">
     <Files>
       <File FileName="static-class-members/Program.cs" Line="4" Column="6" />
