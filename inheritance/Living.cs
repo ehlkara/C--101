@@ -15,6 +15,10 @@
             Console.WriteLine("Living things excrete.");
         }
 
+        public virtual void StimuliResponse()
+        {
+            Console.WriteLine("Living things respond to stimuli.");
+        }
     }
 }
 

@@ -6,6 +6,12 @@
         {
             Console.WriteLine("Animals adapt.");
         }
+
+        public override void StimuliResponse()
+        {
+            base.StimuliResponse();
+            Console.WriteLine("Animals respond to contact.");
+        }
     }
 
     public class Reptiles : Animals
@@ -31,6 +37,7 @@
             base.Nutrition();
             base.Respiratory();
             base.Excretion();
+            base.StimuliResponse();
         }
         public void Fly()
         {

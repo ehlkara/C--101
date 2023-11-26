@@ -6,6 +6,12 @@
         {
             Console.WriteLine("Plants perform photosynthesis.");
         }
+
+        public override void StimuliResponse()
+        {
+            //base.StimuliResponse();
+            Console.WriteLine("Plants respond to the sun.");
+        }
     }
 
     public class SeedyPlants : Plants
@@ -16,6 +22,7 @@
             base.Nutrition();
             base.Respiratory();
             base.Excretion();
+            base.StimuliResponse();
         }
         public void PropagationbySeed()
         {
@@ -31,6 +38,7 @@
             base.Nutrition();
             base.Respiratory();
             base.Excretion();
+            
         }
         public void ReproductionThroughSports()
         {
