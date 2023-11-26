@@ -1,0 +1,15 @@
+/Users/ehlkara/Documents/GitHub/C--101/static-class-members/bin/Debug/net7.0/static-class-members
+/Users/ehlkara/Documents/GitHub/C--101/static-class-members/bin/Debug/net7.0/static-class-members.deps.json
+/Users/ehlkara/Documents/GitHub/C--101/static-class-members/bin/Debug/net7.0/static-class-members.runtimeconfig.json
+/Users/ehlkara/Documents/GitHub/C--101/static-class-members/bin/Debug/net7.0/static-class-members.dll
+/Users/ehlkara/Documents/GitHub/C--101/static-class-members/bin/Debug/net7.0/static-class-members.pdb
+/Users/ehlkara/Documents/GitHub/C--101/static-class-members/obj/Debug/net7.0/static-class-members.csproj.AssemblyReference.cache
+/Users/ehlkara/Documents/GitHub/C--101/static-class-members/obj/Debug/net7.0/static-class-members.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehlkara/Documents/GitHub/C--101/static-class-members/obj/Debug/net7.0/static-class-members.AssemblyInfoInputs.cache
+/Users/ehlkara/Documents/GitHub/C--101/static-class-members/obj/Debug/net7.0/static-class-members.AssemblyInfo.cs
+/Users/ehlkara/Documents/GitHub/C--101/static-class-members/obj/Debug/net7.0/static-class-members.csproj.CoreCompileInputs.cache
+/Users/ehlkara/Documents/GitHub/C--101/static-class-members/obj/Debug/net7.0/static-class-members.dll
+/Users/ehlkara/Documents/GitHub/C--101/static-class-members/obj/Debug/net7.0/refint/static-class-members.dll
+/Users/ehlkara/Documents/GitHub/C--101/static-class-members/obj/Debug/net7.0/static-class-members.pdb
+/Users/ehlkara/Documents/GitHub/C--101/static-class-members/obj/Debug/net7.0/static-class-members.genruntimeconfig.cache
+/Users/ehlkara/Documents/GitHub/C--101/static-class-members/obj/Debug/net7.0/ref/static-class-members.dll
